@@ -1,0 +1,33 @@
+{
+  "avance": {
+    "duration": 12,
+    "logo_frame": 240,
+    "impact_frames": [
+      0,
+      120,
+      240
+    ],
+    "fps": 30,
+    "sample_rate": 48000,
+    "target_lufs": -16,
+    "true_peak_limit_db": -1.5
+  },
+  "final": {
+    "duration": 32,
+    "logo_frame": 750,
+    "impact_frames": [
+      0,
+      90,
+      210,
+      330,
+      450,
+      540,
+      630,
+      750
+    ],
+    "fps": 30,
+    "sample_rate": 48000,
+    "target_lufs": -16,
+    "true_peak_limit_db": -1.5
+  }
+}

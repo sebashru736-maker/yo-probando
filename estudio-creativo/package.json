@@ -1,0 +1,45 @@
+{
+  "name": "tzubaru-estudio-creativo",
+  "version": "1.0.0",
+  "description": "Estudio de video y animación 3D para Tzubaru",
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc",
+    "typecheck": "tsc --noEmit",
+    "render:avance": "remotion render src/index.ts Avance3D out/Tzubaru-HBO-Max-avance-3D.mp4 --browser-executable=/usr/bin/chromium --gl=swangle --concurrency=2 --crf=18",
+    "render:final": "node scripts/render-final.mjs",
+    "audio": "python scripts/soundtrack.py",
+    "check": "npm run lint"
+  },
+  "repository": {},
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/cli": "4.0.536",
+    "@remotion/fonts": "4.0.536",
+    "@remotion/media": "4.0.536",
+    "@remotion/three": "4.0.536",
+    "@remotion/transitions": "4.0.536",
+    "gsap": "3.15.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.536",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "^4.0.0",
+    "@types/react": "19.2.7",
+    "@types/three": "0.186.0",
+    "@types/web": "0.0.166",
+    "eslint": "10.12.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": "^20.19.0 || ^22.13.0 || >=24"
+  },
+  "private": true
+}

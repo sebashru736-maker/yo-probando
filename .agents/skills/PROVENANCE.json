@@ -1,0 +1,86 @@
+[
+  {
+    "skill": "remotion-best-practices",
+    "source": "remotion",
+    "commit": "1441a11e95db35443bd76bb318386c0d3ca00053",
+    "location": ".agents/skills/remotion-best-practices"
+  },
+  {
+    "skill": "frontend-design",
+    "source": "anthropic",
+    "commit": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "location": ".agents/skills/frontend-design"
+  },
+  {
+    "skill": "react-best-practices",
+    "source": "vercel",
+    "commit": "063bee94c3f4df8453406c830b0a7df0f2860278",
+    "location": ".agents/skills/react-best-practices"
+  },
+  {
+    "skill": "web-design-guidelines",
+    "source": "vercel",
+    "commit": "063bee94c3f4df8453406c830b0a7df0f2860278",
+    "location": ".agents/skills/web-design-guidelines"
+  },
+  {
+    "skill": "threejs-animation",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-animation"
+  },
+  {
+    "skill": "threejs-fundamentals",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-fundamentals"
+  },
+  {
+    "skill": "threejs-geometry",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-geometry"
+  },
+  {
+    "skill": "threejs-interaction",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-interaction"
+  },
+  {
+    "skill": "threejs-lighting",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-lighting"
+  },
+  {
+    "skill": "threejs-loaders",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-loaders"
+  },
+  {
+    "skill": "threejs-materials",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-materials"
+  },
+  {
+    "skill": "threejs-postprocessing",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-postprocessing"
+  },
+  {
+    "skill": "threejs-shaders",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-shaders"
+  },
+  {
+    "skill": "threejs-textures",
+    "source": "threejs",
+    "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
+    "location": ".agents/skills/threejs-textures"
+  }
+]
