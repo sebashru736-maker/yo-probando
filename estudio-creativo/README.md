@@ -1,5 +1,7 @@
 # Estudio creativo de Tzubaru
 
+**Corrección vigente del usuario:** las dos propuestas anteriores fueron rechazadas. Seguir [BRIEF-V3.md](BRIEF-V3.md) y el [contexto de marketing](../.agents/product-marketing.md). El nuevo anuncio debe basarse en escenas reales y todavía está pendiente de recibir u obtener esos clips.
+
 Proyecto de Remotion con React, Three.js y React Three Fiber, tipografía local, escenas tridimensionales y diseño sonoro original. Es independiente del primer video de imágenes animadas, que se conserva en `../creaciones`.
 
 ## Estado del trabajo
@@ -48,5 +50,6 @@ Las habilidades están en `../.agents/skills`, disponibles para este repositorio
 - Diseño visual de interfaces de Anthropic.
 - Buenas prácticas de React y revisión de interfaces de Vercel.
 - Diez habilidades de Three.js: fundamentos, geometría, materiales, luces, texturas, animación, carga de modelos, shaders, posproducción e interacción.
+- Dirección audiovisual con `film-crew`, progresión emocional con `emotional-arc-designer` y creatividad publicitaria con `ad-creative`. `film-crew` aporta planificación y diagnóstico; no genera ni edita metraje por sí mismo.
 
 Para futuras páginas web, ya están instaladas las bibliotecas Three.js, React Three Fiber, Drei y GSAP. El proyecto actual es un estudio de video; todavía no se ha definido ni construido una página comercial.

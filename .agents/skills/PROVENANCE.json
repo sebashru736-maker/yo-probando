@@ -82,5 +82,24 @@
     "source": "threejs",
     "commit": "11ffda743faafc6d04a683044b450dab0f2c2717",
     "location": ".agents/skills/threejs-textures"
+  },
+  {
+    "skill": "film-crew",
+    "source": "creative-catalog",
+    "commit": "71b1c1a9e2e85e492bc647aeae0b86c21642c249",
+    "location": ".agents/skills/film-crew",
+    "note": "Instalada desde el catálogo versionado. El repositorio original citado por el catálogo devolvió repository not found."
+  },
+  {
+    "skill": "emotional-arc-designer",
+    "source": "creative-catalog",
+    "commit": "71b1c1a9e2e85e492bc647aeae0b86c21642c249",
+    "location": ".agents/skills/emotional-arc-designer"
+  },
+  {
+    "skill": "ad-creative",
+    "source": "marketing",
+    "commit": "365b412152b9542499ca1439426f7fc3cc92bb65",
+    "location": ".agents/skills/ad-creative"
   }
 ]

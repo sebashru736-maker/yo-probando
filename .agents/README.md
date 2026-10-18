@@ -1,6 +1,6 @@
 # Habilidades creativas del proyecto
 
-Las 14 habilidades de `skills/` se instalaron a petición del usuario para video, web y 3D. Se conserva la procedencia y el commit de cada paquete en `skills/PROVENANCE.json`, y sus licencias cuando forman parte del paquete original.
+Las 17 habilidades de `skills/` se instalaron a petición del usuario para video, web y 3D. Se conserva la procedencia y el commit de cada paquete en `skills/PROVENANCE.json`, y sus licencias cuando forman parte del paquete original.
 
 Son instrucciones para agentes dentro de este repositorio. No instalan aplicaciones en la PC del usuario ni añaden herramientas globales a su cuenta de ChatGPT.
 
