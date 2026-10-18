@@ -1,5 +1,15 @@
 # Creaciones de ChatGPT Codex
 
+## Entrega actual: HBO Max / Tzubaru, sin precios
+
+[Descargar el anuncio de 32 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Sin-Precios.mp4)
+
+Escenas de los videos aportados, fantasía, aventuras, personajes y animación, con locución en español y música/efectos estéreo sincronizados. Cierre de Tzubaru. Sin precios, descuentos ni fechas de estreno.
+
+[Proyecto editable e información de producción](../estudio-creativo/produccion-v4).
+
+Las versiones que siguen son propuestas anteriores rechazadas, conservadas como historial.
+
 ## Video conceptual de HBO Max
 
 [Ver o descargar el video MP4](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-concepto-publicitario.mp4)

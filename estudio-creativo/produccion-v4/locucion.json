@@ -1,0 +1,44 @@
+[
+  {
+    "at": 0.3,
+    "text": "¿Qué historia vas a vivir hoy?",
+    "duration": 1.6783219954648525,
+    "path": "audio/voz-1.wav"
+  },
+  {
+    "at": 4.1,
+    "text": "Batallas que te dejan sin aliento.",
+    "duration": 2.285578231292517,
+    "path": "audio/voz-2.wav"
+  },
+  {
+    "at": 9.55,
+    "text": "Personajes que se quedan contigo.",
+    "duration": 2.1977324263038547,
+    "path": "audio/voz-3.wav"
+  },
+  {
+    "at": 14.15,
+    "text": "Aventuras para disfrutar en familia.",
+    "duration": 2.75156462585034,
+    "path": "audio/voz-4.wav"
+  },
+  {
+    "at": 20.15,
+    "text": "Convierte cualquier noche en una gran historia.",
+    "duration": 3.130294784580499,
+    "path": "audio/voz-5.wav"
+  },
+  {
+    "at": 25.65,
+    "text": "Vívelo en HBO Max.",
+    "duration": 1.8822675736961452,
+    "path": "audio/voz-6.wav"
+  },
+  {
+    "at": 28.8,
+    "text": "Escríbenos y empieza hoy.",
+    "duration": 2.0172789115646257,
+    "path": "audio/voz-7.wav"
+  }
+]

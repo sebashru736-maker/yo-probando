@@ -1,6 +1,6 @@
 # Estudio creativo de Tzubaru
 
-**Corrección vigente del usuario:** las dos propuestas anteriores fueron rechazadas. Seguir [BRIEF-V3.md](BRIEF-V3.md) y el [contexto de marketing](../.agents/product-marketing.md). El nuevo anuncio debe basarse en escenas reales y todavía está pendiente de recibir u obtener esos clips.
+**Entrega vigente:** el usuario aportó seis videos y pidió un anuncio emocionante sin precios. La producción actual está en [produccion-v4](produccion-v4): montaje de 32 segundos con escenas reales, locución en español, música y cierre de Tzubaru. Las piezas de Remotion de abajo son versiones anteriores.
 
 Proyecto de Remotion con React, Three.js y React Three Fiber, tipografía local, escenas tridimensionales y diseño sonoro original. Es independiente del primer video de imágenes animadas, que se conserva en `../creaciones`.
 

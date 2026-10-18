@@ -23,3 +23,9 @@ El usuario quiere un anuncio emocionante y llamativo, con escenas reales de pel�
 ## Siguiente trabajo
 
 Seguir `estudio-creativo/BRIEF-V3.md`. Obtener material oficial accesible o archivos MP4 adjuntos por el usuario, seleccionar los planos después de ver y escuchar los clips, y editar el anuncio completo. No exportar otro sustituto de imágenes fijas o de logotipos como respuesta a este pedido.
+
+## Actualización: material recibido y producción V4
+
+El usuario adjuntó seis MP4 e indicó expresamente **sin precios**. Pidió buenos sonidos, emoción, motivos para adquirir HBO Max y libertad de dirección creativa. Ya no se necesita acceso a las redes sociales para editar esta versión.
+
+La entrega actual se produce en `estudio-creativo/produccion-v4`: veinte planos y cierre de marca, 32 segundos, con voz sintetizada en español, música de una referencia y efectos. Se omiten los gráficos de ofertas y las fechas de estreno. Esta actualización no implica aprobación del usuario ni resultados de marketing medidos.

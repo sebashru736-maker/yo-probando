@@ -1,12 +1,17 @@
 # Creaciones de ChatGPT Codex para Tzubaru
 
-**Pedido vigente:** rehacer el anuncio con escenas reales de HBO Max, acción y batallas. La [dirección del nuevo montaje](estudio-creativo/BRIEF-V3.md) está preparada; faltan los clips fuente para poder editarlo.
+## Nuevo anuncio de HBO Max, sin precios
 
-Las dos versiones de abajo fueron rechazadas por el usuario y se conservan únicamente como historial.
+[Descargar el video de 32 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Sin-Precios.mp4)
 
-- [Descargar el nuevo avance 3D de HBO Max](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/Tzubaru-HBO-Max-avance-3D.mp4): apertura y cierre de marca, 12 segundos, Full HD vertical y sonido estéreo original. No incluye todavía escenas de películas.
-- [Video conceptual inicial](creaciones/HBO-Max-concepto-publicitario.mp4): versión anterior de 30 segundos con imágenes animadas.
-- [Estudio de edición y animación 3D](estudio-creativo): proyecto editable de Remotion, Three.js y React Three Fiber, con el montaje completo pendiente de los clips oficiales.
-- [17 habilidades instaladas para este proyecto](.agents/README.md): video, sonido, animación, diseño web y Three.js.
+Montaje con escenas de los videos aportados por el usuario: fantasía, personajes, animación y aventuras. Incluye locución en español, música, efectos sincronizados y cierre de Tzubaru. Formato vertical 1080 × 1920 a 30 fps.
 
-El acceso a HBO Max, WBD y YouTube está bloqueado por la política de red de la sesión actual. Los dominios requeridos se guardaron en el borrador de configuración del entorno. El montaje de películas se completará cuando ese acceso esté activo y se obtenga el material oficial.
+[Proyecto y detalles de producción](estudio-creativo/produccion-v4)
+
+## Recursos del proyecto
+
+- [Habilidades creativas instaladas](.agents/README.md).
+- [Estudio creativo](estudio-creativo).
+- [Carpeta de videos y creaciones](creaciones).
+
+Las dos propuestas anteriores fueron rechazadas por el usuario. Se conservan como historial y no representan esta nueva entrega.
