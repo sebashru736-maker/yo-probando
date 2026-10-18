@@ -29,3 +29,9 @@ Seguir `estudio-creativo/BRIEF-V3.md`. Obtener material oficial accesible o arch
 El usuario adjuntó seis MP4 e indicó expresamente **sin precios**. Pidió buenos sonidos, emoción, motivos para adquirir HBO Max y libertad de dirección creativa. Ya no se necesita acceso a las redes sociales para editar esta versión.
 
 La entrega actual se produce en `estudio-creativo/produccion-v4`: veinte planos y cierre de marca, 32 segundos, con voz sintetizada en español, música de una referencia y efectos. Se omiten los gráficos de ofertas y las fechas de estreno. Esta actualización no implica aprobación del usuario ni resultados de marketing medidos.
+
+## Revisión solicitada: V5
+
+El usuario valoró positivamente la estructura de V4, pero rechazó la calidad de su narración. Pidió voz más masculina, emocionante y con presencia; más batallas; menos pixelación. Conservar la estructura y la restricción de no incluir precios.
+
+V5 sustituye el modelo de voz por Kokoro `em_santa`, con registro naturalmente más grave, y da más espacio a guerreros, dragones y acción presentes en los archivos aportados. No clona a un locutor oficial. La mezcla reduce más la música bajo la voz. Se aplica FSRCNN 2× y limpieza moderada, conservando el ancho original en los planos horizontales y usando intermedios sin pérdidas. No afirmar que se consiguió metraje nativo HD ni nuevas batallas descargadas; las referencias siguen siendo comprimidas de 576 píxeles. Proyecto `estudio-creativo/produccion-v5`, entrega `creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4`. La revisión aún no ha recibido valoración del usuario.

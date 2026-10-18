@@ -1,0 +1,48 @@
+{
+  "method": "Whisper tiny ASR + pitch autocorrelation; no human listening",
+  "speaker": "Kokoro em_santa",
+  "lines": [
+    {
+      "expected": "¿Qué historia vas a vivir hoy?",
+      "mixed_audio_asr": "que historia más ha vivido hoy.",
+      "median_pitch_hz": 129.03225806451613,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "¡Batallas que te dejan sin aliento!",
+      "mixed_audio_asr": "batallas que te dejan sin aliento.",
+      "median_pitch_hz": 145.45454545454547,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Personajes que se quedan contigo.",
+      "mixed_audio_asr": "personajes que se quedan contigo",
+      "median_pitch_hz": 137.93103448275863,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Aventuras para disfrutar en familia.",
+      "mixed_audio_asr": "Venturas para disfrutar en familia.",
+      "median_pitch_hz": 133.33333333333334,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Convierte cualquier noche en una gran historia.",
+      "mixed_audio_asr": "Conbiértek cualquier noche en una gran historia.",
+      "median_pitch_hz": 132.78236914600552,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "¡Vívelo en HBO Max!",
+      "mixed_audio_asr": "Bible lo de Nache veo más",
+      "median_pitch_hz": 140.35087719298247,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Escríbenos y empieza hoy.",
+      "mixed_audio_asr": "Escriveno si empieza hoy.",
+      "median_pitch_hz": 135.59322033898306,
+      "clipped_samples_voice": 0
+    }
+  ]
+}

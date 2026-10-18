@@ -1,0 +1,33 @@
+{
+  "file": "HBO-Max-Tzubaru-Voz-Masculina-V2.mp4",
+  "bytes": 18987805,
+  "sha256": "66f0eb93ff388a1396518a68dff67d8a396ded426064c36b6568c1357f9c6706",
+  "duration_s": 32.0,
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 960,
+    "color": "BT.709",
+    "last_frame_s": 31.966667,
+    "max_timestamp_error_s": 3.3333333604446125e-07
+  },
+  "audio": {
+    "sample_rate": 48000,
+    "channels": 2,
+    "integrated_lufs": -14.67,
+    "true_peak_dbtp": -1.15,
+    "last_voice_end_s": 30.618625
+  },
+  "checks": {
+    "full_decode": true,
+    "constant_timestamps": true,
+    "ocr_no_prices_32_frames": true,
+    "visual_contact_sheet": "/workspace/hbo-v5/review/timeline.jpg"
+  },
+  "limits": [
+    "Las referencias comprimidas de 576 píxeles no tienen detalle HD nativo.",
+    "OCR por muestreo; selección de planos revisada visualmente.",
+    "La locución se comprueba mediante transcripción automática, no una escucha humana."
+  ]
+}

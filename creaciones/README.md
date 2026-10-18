@@ -1,12 +1,14 @@
 # Creaciones de ChatGPT Codex
 
-## Entrega actual: HBO Max / Tzubaru, sin precios
+## Entrega actual: HBO Max / Tzubaru, voz masculina nueva
 
-[Descargar el anuncio de 32 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Sin-Precios.mp4)
+[Descargar el anuncio revisado de 32 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4)
 
-Escenas de los videos aportados, fantasía, aventuras, personajes y animación, con locución en español y música/efectos estéreo sincronizados. Cierre de Tzubaru. Sin precios, descuentos ni fechas de estreno.
+Nueva voz masculina de Kokoro, mezcla con más presencia de narración y cortes de acción reforzados. Se mantiene la estructura, el infectado, los dragones y las aventuras familiares. Limpieza y reescalado de imagen, menos recorte de los planos originales y compresión de entrega única. Cierre de Tzubaru. Sin precios, descuentos ni fechas de estreno. La fuente sigue siendo material comprimido de 576 píxeles, no HD nativo.
 
-[Proyecto editable e información de producción](../estudio-creativo/produccion-v4).
+[Proyecto editable e información de producción](../estudio-creativo/produccion-v5).
+
+[Versión anterior cuya estructura se conserva](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Sin-Precios.mp4).
 
 Las versiones que siguen son propuestas anteriores rechazadas, conservadas como historial.
 

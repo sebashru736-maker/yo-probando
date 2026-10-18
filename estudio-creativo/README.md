@@ -1,6 +1,6 @@
 # Estudio creativo de Tzubaru
 
-**Entrega vigente:** el usuario aportó seis videos y pidió un anuncio emocionante sin precios. La producción actual está en [produccion-v4](produccion-v4): montaje de 32 segundos con escenas reales, locución en español, música y cierre de Tzubaru. Las piezas de Remotion de abajo son versiones anteriores.
+**Entrega vigente:** [produccion-v5](produccion-v5), anuncio de 32 segundos sin precios. Conserva la estructura de V4, sustituye la voz por una locución masculina más grave, refuerza la acción y trata la imagen con limpieza, reescalado y menos recorte. [Descargar el MP4 revisado](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4). Las piezas de Remotion de abajo son versiones anteriores.
 
 Proyecto de Remotion con React, Three.js y React Three Fiber, tipografía local, escenas tridimensionales y diseño sonoro original. Es independiente del primer video de imágenes animadas, que se conserva en `../creaciones`.
 

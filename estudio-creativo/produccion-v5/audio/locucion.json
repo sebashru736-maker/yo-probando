@@ -1,0 +1,72 @@
+[
+  {
+    "at": 0.35,
+    "text": "¿Qué historia vas a vivir hoy?",
+    "duration": 1.939125,
+    "path": "voz-1.wav",
+    "model": "Kokoro v1.0",
+    "speaker": "em_santa",
+    "speaker_id": 53,
+    "speed": 1.0
+  },
+  {
+    "at": 3.95,
+    "text": "¡Batallas que te dejan sin aliento!",
+    "duration": 2.1435833333333334,
+    "path": "voz-2.wav",
+    "model": "Kokoro v1.0",
+    "speaker": "em_santa",
+    "speaker_id": 53,
+    "speed": 1.01
+  },
+  {
+    "at": 9.55,
+    "text": "Personajes que se quedan contigo.",
+    "duration": 2.1379166666666665,
+    "path": "voz-3.wav",
+    "model": "Kokoro v1.0",
+    "speaker": "em_santa",
+    "speaker_id": 53,
+    "speed": 0.98
+  },
+  {
+    "at": 14.2,
+    "text": "Aventuras para disfrutar en familia.",
+    "duration": 2.2186666666666666,
+    "path": "voz-4.wav",
+    "model": "Kokoro v1.0",
+    "speaker": "em_santa",
+    "speaker_id": 53,
+    "speed": 1.01
+  },
+  {
+    "at": 20.15,
+    "text": "Convierte cualquier noche en una gran historia.",
+    "duration": 2.765833333333333,
+    "path": "voz-5.wav",
+    "model": "Kokoro v1.0",
+    "speaker": "em_santa",
+    "speaker_id": 53,
+    "speed": 1.02
+  },
+  {
+    "at": 25.55,
+    "text": "¡Vívelo en HBO Max!",
+    "duration": 1.5881666666666667,
+    "path": "voz-6.wav",
+    "model": "Kokoro v1.0",
+    "speaker": "em_santa",
+    "speaker_id": 53,
+    "speed": 0.99
+  },
+  {
+    "at": 28.85,
+    "text": "Escríbenos y empieza hoy.",
+    "duration": 1.768625,
+    "path": "voz-7.wav",
+    "model": "Kokoro v1.0",
+    "speaker": "em_santa",
+    "speaker_id": 53,
+    "speed": 1.02
+  }
+]

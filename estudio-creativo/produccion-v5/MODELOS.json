@@ -1,0 +1,45 @@
+{
+  "tts": {
+    "name": "Kokoro multilingual v1.0",
+    "speaker": "em_santa",
+    "sid": 53,
+    "language": "es",
+    "native_sample_rate": 24000,
+    "runtime": "sherpa-onnx 1.13.8",
+    "license_url": "https://github.com/hexgrad/kokoro/blob/main/LICENSE"
+  },
+  "upscale": {
+    "name": "FSRCNN x2",
+    "runtime": "OpenCV DNN Super Resolution",
+    "license_url": "https://github.com/Saafke/FSRCNN_Tensorflow/blob/master/LICENSE"
+  },
+  "artifacts": [
+    {
+      "file": "model.onnx",
+      "bytes": 325560556,
+      "sha256": "b40f62b166ac8164b0627ef48a0b358eda0985e272fb03ef5252e7206305da11",
+      "source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-multi-lang-v1_0.tar.bz2",
+      "license": "Apache-2.0"
+    },
+    {
+      "file": "voices.bin",
+      "bytes": 28200960,
+      "sha256": "1c5a5b983d3d50d8586d437a51f3faa2da7919ce76a013c081e65671a3447c29",
+      "source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-multi-lang-v1_0.tar.bz2",
+      "license": "Apache-2.0"
+    },
+    {
+      "file": "FSRCNN_x2.pb",
+      "bytes": 38973,
+      "sha256": "366b33f0084c7b3f2bf6724f0a2c77bca94fcec9d7b6d72389d330073b380d5c",
+      "source": "https://raw.githubusercontent.com/Saafke/FSRCNN_Tensorflow/master/models/FSRCNN_x2.pb",
+      "license": "Apache-2.0"
+    }
+  ],
+  "download_archive": {
+    "file": "kokoro-multi-lang-v1_0.tar.bz2",
+    "bytes": 349906910,
+    "sha256": "c5f7e2d2caf082bc1d20fb70334a61d99d20b484500aad32e7cf84c128ea3298",
+    "source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/kokoro-multi-lang-v1_0.tar.bz2"
+  }
+}
