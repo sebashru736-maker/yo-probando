@@ -1,0 +1,79 @@
+{
+  "outputs": [
+    {
+      "file": "HBO-Max-Tzubaru-Dragon-Cine-38s.mp4",
+      "bytes": 34962050,
+      "sha256": "219cd421bccaecadce99d3a98b0ee7e2afe26f8b05833421b907eabe2ccae0d9",
+      "duration_s": 38,
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "frames": 1140,
+      "max_timestamp_error_s": 3.3333333604446125e-07,
+      "color": "BT.709",
+      "full_decode": true,
+      "audio_channels": 2,
+      "audio_sample_rate": 48000,
+      "integrated_lufs": -14.03,
+      "true_peak_dbtp": -1.08,
+      "ocr_sampled_frames": 38,
+      "price_flags": []
+    },
+    {
+      "file": "HBO-Max-Tzubaru-Dragon-Vertical-38s.mp4",
+      "bytes": 21700576,
+      "sha256": "cbba31ec4efab1ef632f001379c894d4b2c351027beca880fc34469ac5cb6079",
+      "duration_s": 38,
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "frames": 1140,
+      "max_timestamp_error_s": 3.3333333604446125e-07,
+      "color": "BT.709",
+      "full_decode": true,
+      "audio_channels": 2,
+      "audio_sample_rate": 48000,
+      "integrated_lufs": -14.03,
+      "true_peak_dbtp": -1.08,
+      "ocr_sampled_frames": 38,
+      "price_flags": []
+    }
+  ],
+  "voice_model": "Supertonic 3",
+  "narrator": "M3",
+  "dragon_voice": "M2 + character processing",
+  "dragon_segment_s": [
+    28,
+    34
+  ],
+  "dragon_dialogue": {
+    "at": 28.15,
+    "text": "Disponible en Tzubaru.",
+    "path": "voice-6.wav",
+    "native_path": "voice-6-native.wav",
+    "duration": 1.3909791666666667,
+    "model": "Supertonic 3",
+    "speaker": "M2",
+    "sid": 6,
+    "steps": 32,
+    "speed": 0.98,
+    "native_sample_rate": 44100
+  },
+  "source_audio_used": false,
+  "music": "Original instrumental rendered separately with FluidSynth; no dialogue samples",
+  "restoration": "Real-ESRGAN general x4v3 + animevideov3; original compressed 576px sources",
+  "review_limits": [
+    "ASR and visual frame review; no human listening in this environment.",
+    "No newly obtained HD source footage. Reconstruction does not guarantee original fine detail.",
+    "Dragon dialogue accompanies retimed existing mouth motion, not generated phoneme-level lip sync."
+  ],
+  "visual_review": {
+    "method": "38 sampled full-resolution frames per format and six contact sheets",
+    "sampled_frames_per_format": 38,
+    "formats_reviewed": [
+      "Cine",
+      "Vertical"
+    ],
+    "completed": true
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "at": 0.3,
+    "text": "¡Prepárate para vivir grandes historias!",
+    "path": "voice-1.wav",
+    "native_path": "voice-1-native.wav",
+    "duration": 1.8739583333333334,
+    "model": "Supertonic 3",
+    "speaker": "M3",
+    "sid": 7,
+    "steps": 32,
+    "speed": 1.04,
+    "native_sample_rate": 44100
+  },
+  {
+    "at": 4.2,
+    "text": "Batallas épicas, dragones y acción que no te suelta.",
+    "path": "voice-2.wav",
+    "native_path": "voice-2-native.wav",
+    "duration": 2.4419166666666667,
+    "model": "Supertonic 3",
+    "speaker": "M3",
+    "sid": 7,
+    "steps": 32,
+    "speed": 1.04,
+    "native_sample_rate": 44100
+  },
+  {
+    "at": 10.2,
+    "text": "Personajes inolvidables. Historias que te atrapan.",
+    "path": "voice-3.wav",
+    "native_path": "voice-3-native.wav",
+    "duration": 2.3527708333333335,
+    "model": "Supertonic 3",
+    "speaker": "M3",
+    "sid": 7,
+    "steps": 32,
+    "speed": 1.04,
+    "native_sample_rate": 44100
+  },
+  {
+    "at": 15.2,
+    "text": "Y aventuras para compartir en familia.",
+    "path": "voice-4.wav",
+    "native_path": "voice-4-native.wav",
+    "duration": 1.7848541666666666,
+    "model": "Supertonic 3",
+    "speaker": "M3",
+    "sid": 7,
+    "steps": 32,
+    "speed": 1.04,
+    "native_sample_rate": 44100
+  },
+  {
+    "at": 21.2,
+    "text": "Tu próxima gran historia empieza en HBO Max.",
+    "path": "voice-5.wav",
+    "native_path": "voice-5-native.wav",
+    "duration": 2.3720833333333333,
+    "model": "Supertonic 3",
+    "speaker": "M3",
+    "sid": 7,
+    "steps": 32,
+    "speed": 1.05,
+    "native_sample_rate": 44100
+  },
+  {
+    "at": 28.15,
+    "text": "Disponible en Tzubaru.",
+    "path": "voice-6.wav",
+    "native_path": "voice-6-native.wav",
+    "duration": 1.3909791666666667,
+    "model": "Supertonic 3",
+    "speaker": "M2",
+    "sid": 6,
+    "steps": 32,
+    "speed": 0.98,
+    "native_sample_rate": 44100
+  },
+  {
+    "at": 34.35,
+    "text": "Escríbenos y empieza a vivirlo.",
+    "path": "voice-7.wav",
+    "native_path": "voice-7-native.wav",
+    "duration": 1.5744375,
+    "model": "Supertonic 3",
+    "speaker": "M3",
+    "sid": 7,
+    "steps": 32,
+    "speed": 1.03,
+    "native_sample_rate": 44100
+  }
+]

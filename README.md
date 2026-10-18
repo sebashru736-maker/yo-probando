@@ -1,12 +1,14 @@
 # Creaciones de ChatGPT Codex para Tzubaru
 
-## Anuncio revisado de HBO Max: voz masculina nueva, sin precios
+## HBO Max / Tzubaru: nueva revisión de 38 segundos
 
-[Descargar el video revisado de 32 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4)
+[Ver o descargar la versión panorámica](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Dragon-Cine-38s.mp4)
 
-Conserva la estructura valorada por el usuario y cambia la locución por una voz masculina más grave de Kokoro. Más presencia de guerreros y dragones, música y efectos sincronizados, tratamiento de imagen y encuadres horizontales completos. Formato vertical 1080 × 1920 a 30 fps. La nitidez está limitada por los originales comprimidos de 576 píxeles.
+[Descargar la alternativa vertical para móvil](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Dragon-Vertical-38s.mp4)
 
-[Proyecto y detalles de producción](estudio-creativo/produccion-v5)
+Narración nueva con Supertonic 3, música instrumental creada por separado para eliminar las voces del audio de fondo, restauración Real-ESRGAN y seis segundos dedicados al dragón, que dice «Disponible en Tzubaru». Sin precios. La reconstrucción de imagen sigue limitada por las referencias comprimidas; no se obtuvo una nueva fuente HD.
+
+[Análisis previo, proyecto y comprobaciones](estudio-creativo/produccion-v6)
 
 ## Recursos del proyecto
 

@@ -1,12 +1,16 @@
 # Creaciones de ChatGPT Codex
 
-## Entrega actual: HBO Max / Tzubaru, voz masculina nueva
+## Entrega actual: HBO Max / Tzubaru, dragón y nueva narración
 
-[Descargar el anuncio revisado de 32 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4)
+[Ver o descargar la versión panorámica de 38 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Dragon-Cine-38s.mp4)
 
-Nueva voz masculina de Kokoro, mezcla con más presencia de narración y cortes de acción reforzados. Se mantiene la estructura, el infectado, los dragones y las aventuras familiares. Limpieza y reescalado de imagen, menos recorte de los planos originales y compresión de entrega única. Cierre de Tzubaru. Sin precios, descuentos ni fechas de estreno. La fuente sigue siendo material comprimido de 576 píxeles, no HD nativo.
+[Descargar la versión vertical de 38 segundos](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Dragon-Vertical-38s.mp4)
 
-[Proyecto editable e información de producción](../estudio-creativo/produccion-v5).
+Nuevo motor de voz Supertonic 3, perfil masculino M3, con M2 para el dragón. Se elimina todo el audio de las referencias y se crea una pista instrumental separada para evitar voces que interrumpan. El dragón tiene seis segundos antes del cierre y dice «Disponible en Tzubaru». Se aplica Real-ESRGAN a los planos seleccionados. Sin precios, descuentos ni fechas de estreno. Las fuentes siguen siendo material comprimido de 576 píxeles; el detalle reconstruido es aproximado.
+
+[Análisis previo, proyecto editable y comprobaciones](../estudio-creativo/produccion-v6).
+
+[Revisión anterior de voz e imagen](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4), rechazada por el usuario.
 
 [Versión anterior cuya estructura se conserva](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Sin-Precios.mp4).
 

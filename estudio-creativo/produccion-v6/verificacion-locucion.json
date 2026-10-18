@@ -1,0 +1,48 @@
+{
+  "method": "Whisper tiny ASR + pitch autocorrelation; no human listening",
+  "speaker": "Supertonic 3 M3 narrator + M2 dragon",
+  "lines": [
+    {
+      "expected": "¡Prepárate para vivir grandes historias!",
+      "mixed_audio_asr": "Preparate para vivir grandes historias.",
+      "median_pitch_hz": 112.67605633802818,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Batallas épicas, dragones y acción que no te suelta.",
+      "mixed_audio_asr": "batallas épicas dragones y acción que no te suelta",
+      "median_pitch_hz": 96.67761956918584,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Personajes inolvidables. Historias que te atrapan.",
+      "mixed_audio_asr": "personajes inolvidable historias que te atrapan.",
+      "median_pitch_hz": 100.0,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Y aventuras para compartir en familia.",
+      "mixed_audio_asr": "y aventuras para compartir en familia.",
+      "median_pitch_hz": 102.56410256410257,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Tu próxima gran historia empieza en HBO Max.",
+      "mixed_audio_asr": "Tu próxima gran historia empiezan el HBO Max.",
+      "median_pitch_hz": 112.28208411307003,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Disponible en Tzubaru.",
+      "mixed_audio_asr": "disponible en su baro",
+      "median_pitch_hz": 82.90155440414507,
+      "clipped_samples_voice": 0
+    },
+    {
+      "expected": "Escríbenos y empieza a vivirlo.",
+      "mixed_audio_asr": "Escribveno si empieza a vivirlo.",
+      "median_pitch_hz": 105.61171139769954,
+      "clipped_samples_voice": 0
+    }
+  ]
+}

@@ -35,3 +35,13 @@ La entrega actual se produce en `estudio-creativo/produccion-v4`: veinte planos 
 El usuario valoró positivamente la estructura de V4, pero rechazó la calidad de su narración. Pidió voz más masculina, emocionante y con presencia; más batallas; menos pixelación. Conservar la estructura y la restricción de no incluir precios.
 
 V5 sustituye el modelo de voz por Kokoro `em_santa`, con registro naturalmente más grave, y da más espacio a guerreros, dragones y acción presentes en los archivos aportados. No clona a un locutor oficial. La mezcla reduce más la música bajo la voz. Se aplica FSRCNN 2× y limpieza moderada, conservando el ancho original en los planos horizontales y usando intermedios sin pérdidas. No afirmar que se consiguió metraje nativo HD ni nuevas batallas descargadas; las referencias siguen siendo comprimidas de 576 píxeles. Proyecto `estudio-creativo/produccion-v5`, entrega `creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4`. La revisión aún no ha recibido valoración del usuario.
+
+## V6: rechazo de V5 y corrección de audio y calidad
+
+El usuario rechazó también la voz y la imagen de V5: percibe una voz frágil, poco fluida y voces de fondo que la interrumpen. Pidió analizar el video completo antes de cambiarlo y extender al dragón para decir «Disponible en Subaru». Se mantiene Tzubaru conforme al logo aportado; se informó esa interpretación en la conversación.
+
+El análisis está en `estudio-creativo/produccion-v6/ANALISIS.md`. V6 descarta TODO el audio de los originales, porque la pista usada como música conservaba voces. Crea instrumental y efectos por separado. Cambia Kokoro por Supertonic 3 M3, perfil de presentación firme, y M2 más profundo para el dragón. No afirmar que sea la voz oficial ni un clon de un locutor de HBO.
+
+La pieza pasa a 38 segundos, con seis segundos dedicados al dragón entre 28 y 34. Su diálogo acompaña movimiento de boca existente retimado; no se generó sincronización labial por fonemas. Se restaura con Real-ESRGAN general y de animación, y se entrega panorámica y vertical. La fuente sigue siendo comprimida de 576 píxeles y la restauración no implica nuevo metraje HD. El acceso a servicios de voz Microsoft, YouTube y HBO/WBD volvió a recibir HTTP 403; no repetir permisos ni afirmar nuevas fuentes descargadas.
+
+Se añadió la habilidad `video-router`; las instrucciones no sustituyen a los modelos ni garantizan una valoración positiva. La revisión V6 aún no ha sido aprobada ni valorada por el usuario. No describir V5 como la entrega vigente o una voz aceptada.

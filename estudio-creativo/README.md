@@ -1,6 +1,6 @@
 # Estudio creativo de Tzubaru
 
-**Entrega vigente:** [produccion-v5](produccion-v5), anuncio de 32 segundos sin precios. Conserva la estructura de V4, sustituye la voz por una locución masculina más grave, refuerza la acción y trata la imagen con limpieza, reescalado y menos recorte. [Descargar el MP4 revisado](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Voz-Masculina-V2.mp4). Las piezas de Remotion de abajo son versiones anteriores.
+**Entrega vigente:** [produccion-v6](produccion-v6), anuncio de 38 segundos sin precios. Nueva narración Supertonic 3, música instrumental sin el audio de los videos fuente, restauración Real-ESRGAN y seis segundos dedicados al dragón con «Disponible en Tzubaru». [Panorámico](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Dragon-Cine-38s.mp4) · [Vertical](https://github.com/sebashru736-maker/yo-probando/raw/refs/heads/main/creaciones/HBO-Max-Tzubaru-Dragon-Vertical-38s.mp4). Las piezas de Remotion de abajo son versiones anteriores.
 
 Proyecto de Remotion con React, Three.js y React Three Fiber, tipografía local, escenas tridimensionales y diseño sonoro original. Es independiente del primer video de imágenes animadas, que se conserva en `../creaciones`.
 

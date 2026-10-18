@@ -1,0 +1,77 @@
+{
+  "artifacts": [
+    {
+      "file": "realesr-general-x4v3.pth",
+      "bytes": 4885111,
+      "sha256": "8dc7edb9ac80ccdc30c3a5dca6616509367f05fbc184ad95b731f05bece96292",
+      "source": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-general-x4v3.pth"
+    },
+    {
+      "file": "realesr-animevideov3.pth",
+      "bytes": 2504012,
+      "sha256": "b8a8376811077954d82ca3fcf476f1ac3da3e8a68a4f4d71363008000a18b75d",
+      "source": "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesr-animevideov3.pth"
+    },
+    {
+      "file": "sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2",
+      "bytes": 128774318,
+      "sha256": "82fa96f91c4ef8abaae3a14a3f4153facf88bed821d1f7331cec2700f432c427",
+      "source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/sherpa-onnx-supertonic-3-tts-int8-2026-05-11.tar.bz2"
+    }
+  ],
+  "supertonic_files": [
+    {
+      "file": "tts.json",
+      "sha256": "42078d3aef1cd43ab43021f3c54f47d2d75ceb4e75f627f118890128b06a0d09"
+    },
+    {
+      "file": "vector_estimator.int8.onnx",
+      "sha256": "20cd86fa5c6effedfda0e7cffe5b0569ca401c440a0c3a1d72bf39286c0db3fd"
+    },
+    {
+      "file": "text_encoder.int8.onnx",
+      "sha256": "c7befd5ea8c3119769e8a6c1486c4edc6a3bc8365c67621c881bbb774b9902ff"
+    },
+    {
+      "file": "voice.bin",
+      "sha256": "67d5209b0ee8ce6c74105ffbe12fe6a7628aea3b4ba2fcb308a4a67938a93ce8"
+    },
+    {
+      "file": "duration_predictor.int8.onnx",
+      "sha256": "c3eb91414d5ff8a7a239b7fe9e34e7e2bf8a8140d8375ffb14718b1c639325db"
+    },
+    {
+      "file": "README.md",
+      "sha256": "a96c347945f7c8bc1673bea3525b1ac8d36fdde556e1e0a6a186052429caf863"
+    },
+    {
+      "file": "vocoder.int8.onnx",
+      "sha256": "e923d60f53f95eb1ce235f1dc33ec56d9c057823c96fa6f8acf98f32b0da6152"
+    },
+    {
+      "file": "unicode_indexer.bin",
+      "sha256": "8402ca48e5189a8950138580b0fff64db6f072f24ac07cd54ba8b2fbb9883b30"
+    },
+    {
+      "file": "LICENSE",
+      "sha256": "0dfe0d0ba84416fe3879d9a34f4909d8d0137c78d1e95834177b0414ac096fa2"
+    }
+  ],
+  "tts": {
+    "name": "Supertonic 3",
+    "narrator": "M3 / sid7",
+    "dragon": "M2 / sid6",
+    "native_rate": 44100,
+    "steps": 32,
+    "model_license": "OpenRAIL-M as documented in upstream README",
+    "code_license": "MIT",
+    "model_license_url": "https://huggingface.co/Supertone/supertonic-3/blob/main/LICENSE",
+    "voice_profiles": "https://github.com/supertone-inc/supertonic-py/blob/main/docs/voices.md"
+  },
+  "restore": {
+    "name": "Real-ESRGAN SRVGGNetCompact",
+    "license": "BSD-3-Clause",
+    "inference": "CPU BF16; float32 output",
+    "blend": ".85 restored + .15 original Lanczos"
+  }
+}

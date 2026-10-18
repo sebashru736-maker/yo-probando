@@ -101,5 +101,11 @@
     "source": "marketing",
     "commit": "365b412152b9542499ca1439426f7fc3cc92bb65",
     "location": ".agents/skills/ad-creative"
+  },
+  {
+    "skill": "video-router",
+    "source": "Orkas-AI/Orkas-VideoStudio; adaptation from antigravity-awesome-skills",
+    "commit": "dd4a0f40b2bc6c6b0fe6f2e732c9540ffffefe08",
+    "location": ".agents/skills/video-router"
   }
 ]
